@@ -1,0 +1,97 @@
+header{
+    width: 100%;
+    height: 100px;
+    background-color:blueviolet;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color:burlywood;
+}
+
+img{
+    height: 80%;
+    width: 80%;
+}
+
+table,
+tr,
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+img{
+    border: 2px solid white;
+}
+
+td{
+    width: 300px;
+    height: 150px;
+}
+
+#heellichtrood{
+    background-color: #c58f88;
+}
+
+#crimson{
+    background-color: crimson;
+}
+
+#violet{
+    background-color: violet;
+}
+
+#groen{
+    background-color:green;
+}
+
+#geel{
+    background-color:#FFFF33;
+}
+
+#blauw{
+    background-color:blue;
+}
+
+#cyan{
+    background-color:cyan;
+}
+
+#grijs{
+    background-color:gray;
+}
+
+#donkergrjs{
+    background-color:darkslategrey;
+}
+
+#peru{
+    background-color:peru;
+}
+
+#donkeroranje{
+    background-color:darkorange;
+}
+#coral{
+    background-color:coral;
+}
+
+#springgroen{
+    background-color:springgreen;
+}
+
+#donkerrood{
+    background-color:darkred;
+}
+
+#lichtblauw{
+    background-color:#6a8ce8;
+}
+
+#lichtgroen{
+    background-color: rgb(130, 238, 147); 
+}
+
